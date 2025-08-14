@@ -1,0 +1,26 @@
+{
+  "id": "support",
+  "title": "🆘 Support & Resources",
+  "description": "Email Support",
+  "source": "@site/docs/support.md",
+  "sourceDirName": ".",
+  "slug": "/support",
+  "permalink": "/support",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📱 Frontend Development Guide",
+    "permalink": "/frontend-development-guide"
+  },
+  "next": {
+    "title": "📋 Project Status & Integration",
+    "permalink": "/tasks"
+  }
+}

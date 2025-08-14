@@ -1,0 +1,26 @@
+{
+  "id": "colors-and-themes",
+  "title": "🎨 Theming & Design System",
+  "description": "The theme and color management in Constellation is based on Ionic and Angular with comprehensive theming capabilities for both web and mobile applications.",
+  "source": "@site/docs/colors-and-themes.md",
+  "sourceDirName": ".",
+  "slug": "/colors-and-themes",
+  "permalink": "/colors-and-themes",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📧 Email System & Providers",
+    "permalink": "/emails-and-email-providers"
+  },
+  "next": {
+    "title": "🚀 Deployment & Production",
+    "permalink": "/deployment"
+  }
+}

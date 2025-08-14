@@ -1,0 +1,26 @@
+{
+  "id": "development-setup",
+  "title": "🛠️ Development Setup Guide",
+  "description": "Complete guide for setting up your Constellation development environment, including environment configuration, local development, and testing.",
+  "source": "@site/docs/development-setup.md",
+  "sourceDirName": ".",
+  "slug": "/development-setup",
+  "permalink": "/development-setup",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🏗️ Project Architecture Overview",
+    "permalink": "/project-structure-overview"
+  },
+  "next": {
+    "title": "🔄 CI/CD Pipeline",
+    "permalink": "/cicd"
+  }
+}

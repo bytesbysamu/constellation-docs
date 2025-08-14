@@ -1,0 +1,26 @@
+{
+  "id": "payments",
+  "title": "💳 Payment Processing & Subscriptions",
+  "description": "Constellation integrates with Stripe to handle both subscriptions and one-time payments. This makes it easy to manage payments for your SaaS application with comprehensive payment processing capabilities.",
+  "source": "@site/docs/payments.md",
+  "sourceDirName": ".",
+  "slug": "/payments",
+  "permalink": "/payments",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔐 Authentication & Security",
+    "permalink": "/auth"
+  },
+  "next": {
+    "title": "📧 Email System & Providers",
+    "permalink": "/emails-and-email-providers"
+  }
+}

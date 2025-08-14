@@ -1,0 +1,26 @@
+{
+  "id": "emails-and-email-providers",
+  "title": "📧 Email System & Providers",
+  "description": "Constellation uses SendGrid to send emails with comprehensive email management capabilities. The system supports both template-based and dynamic email generation with secure delivery and tracking.",
+  "source": "@site/docs/emails-and-email-providers.md",
+  "sourceDirName": ".",
+  "slug": "/emails-and-email-providers",
+  "permalink": "/emails-and-email-providers",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💳 Payment Processing & Subscriptions",
+    "permalink": "/payments"
+  },
+  "next": {
+    "title": "🎨 Theming & Design System",
+    "permalink": "/colors-and-themes"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "frontend-architecture",
+  "title": "📱 Frontend Architecture & Development",
+  "description": "Constellation's frontend is built with Ionic and Angular, providing a modern, mobile-first application that works seamlessly across web and mobile platforms.",
+  "source": "@site/docs/frontend-architecture.md",
+  "sourceDirName": ".",
+  "slug": "/frontend-architecture",
+  "permalink": "/frontend-architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🚀 Deployment & Production",
+    "permalink": "/deployment"
+  },
+  "next": {
+    "title": "📱 Frontend Development Guide",
+    "permalink": "/frontend-development-guide"
+  }
+}

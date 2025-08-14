@@ -1,0 +1,26 @@
+{
+  "id": "auth",
+  "title": "🔐 Authentication & Security",
+  "description": "Constellation provides a complete authentication system built with Spring Security and uses JWT for managing authentication via access and refresh tokens. The implementation includes comprehensive security features and follows industry best practices.",
+  "source": "@site/docs/auth.md",
+  "sourceDirName": ".",
+  "slug": "/auth",
+  "permalink": "/auth",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔄 CI/CD Pipeline",
+    "permalink": "/cicd"
+  },
+  "next": {
+    "title": "💳 Payment Processing & Subscriptions",
+    "permalink": "/payments"
+  }
+}

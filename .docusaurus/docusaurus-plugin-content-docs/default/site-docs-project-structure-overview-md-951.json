@@ -1,0 +1,26 @@
+{
+  "id": "project-structure-overview",
+  "title": "🏗️ Project Architecture Overview",
+  "description": "---",
+  "source": "@site/docs/project-structure-overview.md",
+  "sourceDirName": ".",
+  "slug": "/project-structure-overview",
+  "permalink": "/project-structure-overview",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🚀 Quick Start Guide",
+    "permalink": "/"
+  },
+  "next": {
+    "title": "🛠️ Development Setup Guide",
+    "permalink": "/development-setup"
+  }
+}

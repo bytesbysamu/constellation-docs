@@ -1,0 +1,22 @@
+{
+  "id": "task3",
+  "title": "🤖 AI & Embeddings Foundation",
+  "description": "Current State",
+  "source": "@site/docs/task3.md",
+  "sourceDirName": ".",
+  "slug": "/task3",
+  "permalink": "/task3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 15,
+  "frontMatter": {
+    "sidebar_position": 15
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🎯 Frontend Integration & Mobile Development",
+    "permalink": "/task2"
+  }
+}

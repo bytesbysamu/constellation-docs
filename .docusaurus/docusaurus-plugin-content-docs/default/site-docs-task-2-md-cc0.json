@@ -1,0 +1,26 @@
+{
+  "id": "task2",
+  "title": "🎯 Frontend Integration & Mobile Development",
+  "description": "---",
+  "source": "@site/docs/task2.md",
+  "sourceDirName": ".",
+  "slug": "/task2",
+  "permalink": "/task2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "📋 Project Status & Integration",
+    "permalink": "/tasks"
+  },
+  "next": {
+    "title": "🤖 AI & Embeddings Foundation",
+    "permalink": "/task3"
+  }
+}
