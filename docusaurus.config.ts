@@ -57,7 +57,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/constellation/constellation-docs',
+          href: 'https://github.com/bytesbysamu/constellation-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -89,15 +89,15 @@ const config: Config = {
           items: [
             {
               label: 'GitHub',
-              href: 'https://github.com/constellation/constellation-docs',
+              href: 'https://github.com/bytesbysamu/constellation-docs',
             },
             {
               label: 'Issues',
-              href: 'https://github.com/constellation/constellation-docs/issues',
+              href: 'https://github.com/bytesbysamu/constellation-docs/issues',
             },
             {
               label: 'Discussions',
-              href: 'https://github.com/constellation/constellation-docs/discussions',
+              href: 'https://github.com/bytesbysamu/constellation-docs/discussions',
             },
           ],
         },
