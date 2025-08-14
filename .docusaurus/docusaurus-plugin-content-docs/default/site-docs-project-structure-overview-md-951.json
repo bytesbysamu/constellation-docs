@@ -5,7 +5,7 @@
   "source": "@site/docs/project-structure-overview.md",
   "sourceDirName": ".",
   "slug": "/project-structure-overview",
-  "permalink": "/project-structure-overview",
+  "permalink": "/constellation-docs/project-structure-overview",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🚀 Quick Start Guide",
-    "permalink": "/"
+    "permalink": "/constellation-docs/"
   },
   "next": {
     "title": "🛠️ Development Setup Guide",
-    "permalink": "/development-setup"
+    "permalink": "/constellation-docs/development-setup"
   }
 }

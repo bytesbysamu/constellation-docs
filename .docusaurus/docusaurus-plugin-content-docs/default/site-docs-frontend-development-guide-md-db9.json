@@ -5,7 +5,7 @@
   "source": "@site/docs/frontend-development-guide.md",
   "sourceDirName": ".",
   "slug": "/frontend-development-guide",
-  "permalink": "/frontend-development-guide",
+  "permalink": "/constellation-docs/frontend-development-guide",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "📱 Frontend Architecture & Development",
-    "permalink": "/frontend-architecture"
+    "permalink": "/constellation-docs/frontend-architecture"
   },
   "next": {
     "title": "🆘 Support & Resources",
-    "permalink": "/support"
+    "permalink": "/constellation-docs/support"
   }
 }

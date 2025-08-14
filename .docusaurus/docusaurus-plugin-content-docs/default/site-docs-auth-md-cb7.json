@@ -5,7 +5,7 @@
   "source": "@site/docs/auth.md",
   "sourceDirName": ".",
   "slug": "/auth",
-  "permalink": "/auth",
+  "permalink": "/constellation-docs/auth",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🔄 CI/CD Pipeline",
-    "permalink": "/cicd"
+    "permalink": "/constellation-docs/cicd"
   },
   "next": {
     "title": "💳 Payment Processing & Subscriptions",
-    "permalink": "/payments"
+    "permalink": "/constellation-docs/payments"
   }
 }

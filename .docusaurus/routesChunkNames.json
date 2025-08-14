@@ -1,118 +1,75 @@
 {
-  "/__docusaurus/debug-5ff": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
+  "/constellation-docs/-b6a": {
+    "__comp": "5e95c892",
     "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
+      "plugin": "aba21aa0"
     }
   },
-  "/__docusaurus/debug/config-5ba": {
-    "__comp": "__comp---theme-debug-config-23-a-2ff",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
+  "/constellation-docs/-645": {
+    "__comp": "a7bd4aaa",
+    "__props": "fe961cb6"
   },
-  "/__docusaurus/debug/content-a2b": {
-    "__comp": "__comp---theme-debug-contentba-8-ce7",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    },
-    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  "/constellation-docs/-298": {
+    "__comp": "a94703ab"
   },
-  "/__docusaurus/debug/globalData-c3c": {
-    "__comp": "__comp---theme-debug-global-dataede-0fa",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
+  "/constellation-docs/auth-b53": {
+    "__comp": "17896441",
+    "content": "cb769c5c"
   },
-  "/__docusaurus/debug/metadata-156": {
-    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
+  "/constellation-docs/cicd-a94": {
+    "__comp": "17896441",
+    "content": "8c2407ff"
   },
-  "/__docusaurus/debug/registry-88c": {
-    "__comp": "__comp---theme-debug-registry-679-501",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
+  "/constellation-docs/colors-and-themes-157": {
+    "__comp": "17896441",
+    "content": "caf25a05"
   },
-  "/__docusaurus/debug/routes-000": {
-    "__comp": "__comp---theme-debug-routes-946-699",
-    "__context": {
-      "plugin": "plugin---docusaurus-debugb-38-ad3"
-    }
+  "/constellation-docs/deployment-35d": {
+    "__comp": "17896441",
+    "content": "a3713279"
   },
-  "/-3b5": {
-    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
-    "__context": {
-      "plugin": "plugin---aba-d70"
-    }
+  "/constellation-docs/development-setup-016": {
+    "__comp": "17896441",
+    "content": "a9670040"
   },
-  "/-de4": {
-    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---22-d-307"
+  "/constellation-docs/emails-and-email-providers-680": {
+    "__comp": "17896441",
+    "content": "6b7cf398"
   },
-  "/-852": {
-    "__comp": "__comp---theme-doc-roota-94-67a"
+  "/constellation-docs/frontend-architecture-e3d": {
+    "__comp": "17896441",
+    "content": "f46a4003"
   },
-  "/auth-d3f": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---authcb-7-ddb"
+  "/constellation-docs/frontend-development-guide-e6d": {
+    "__comp": "17896441",
+    "content": "db921090"
   },
-  "/cicd-405": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---cicd-8-c-2-08c"
+  "/constellation-docs/payments-74b": {
+    "__comp": "17896441",
+    "content": "71741e19"
   },
-  "/colors-and-themes-6fc": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---colors-and-themescaf-807"
+  "/constellation-docs/project-structure-overview-b13": {
+    "__comp": "17896441",
+    "content": "95107ff2"
   },
-  "/deployment-a8a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---deploymenta-37-1b2"
+  "/constellation-docs/support-4d6": {
+    "__comp": "17896441",
+    "content": "d9e16301"
   },
-  "/development-setup-8bb": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---development-setupa-96-f78"
+  "/constellation-docs/task2-630": {
+    "__comp": "17896441",
+    "content": "cc01b2f4"
   },
-  "/emails-and-email-providers-40c": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---emails-and-email-providers-6-b-7-14e"
+  "/constellation-docs/task3-642": {
+    "__comp": "17896441",
+    "content": "5f62935b"
   },
-  "/frontend-architecture-d16": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---frontend-architecturef-46-dcd"
+  "/constellation-docs/tasks-978": {
+    "__comp": "17896441",
+    "content": "e383ab1f"
   },
-  "/frontend-development-guide-bb9": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---frontend-development-guidedb-9-8fa"
-  },
-  "/payments-dab": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---payments-717-16c"
-  },
-  "/project-structure-overview-2e0": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---project-structure-overview-951-370"
-  },
-  "/support-d68": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---supportd-9-e-b5b"
-  },
-  "/task2-d44": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---task-2-cc-0-3dd"
-  },
-  "/task3-6ae": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---task-35-f-6-835"
-  },
-  "/tasks-be8": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---taskse-38-acc"
-  },
-  "/-654": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---d-58-c69"
+  "/constellation-docs/-810": {
+    "__comp": "17896441",
+    "content": "d589d3a7"
   }
 }

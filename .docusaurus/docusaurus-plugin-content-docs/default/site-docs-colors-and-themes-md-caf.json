@@ -5,7 +5,7 @@
   "source": "@site/docs/colors-and-themes.md",
   "sourceDirName": ".",
   "slug": "/colors-and-themes",
-  "permalink": "/colors-and-themes",
+  "permalink": "/constellation-docs/colors-and-themes",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "📧 Email System & Providers",
-    "permalink": "/emails-and-email-providers"
+    "permalink": "/constellation-docs/emails-and-email-providers"
   },
   "next": {
     "title": "🚀 Deployment & Production",
-    "permalink": "/deployment"
+    "permalink": "/constellation-docs/deployment"
   }
 }

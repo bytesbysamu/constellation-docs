@@ -1,88 +1,88 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/constellation-docs/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/constellation-docs/",
           "mainDocId": "getting-started",
           "docs": [
             {
               "id": "auth",
-              "path": "/auth",
+              "path": "/constellation-docs/auth",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "cicd",
-              "path": "/cicd",
+              "path": "/constellation-docs/cicd",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "colors-and-themes",
-              "path": "/colors-and-themes",
+              "path": "/constellation-docs/colors-and-themes",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "deployment",
-              "path": "/deployment",
+              "path": "/constellation-docs/deployment",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "development-setup",
-              "path": "/development-setup",
+              "path": "/constellation-docs/development-setup",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "emails-and-email-providers",
-              "path": "/emails-and-email-providers",
+              "path": "/constellation-docs/emails-and-email-providers",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "frontend-architecture",
-              "path": "/frontend-architecture",
+              "path": "/constellation-docs/frontend-architecture",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "frontend-development-guide",
-              "path": "/frontend-development-guide",
+              "path": "/constellation-docs/frontend-development-guide",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "getting-started",
-              "path": "/",
+              "path": "/constellation-docs/",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "payments",
-              "path": "/payments",
+              "path": "/constellation-docs/payments",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "project-structure-overview",
-              "path": "/project-structure-overview",
+              "path": "/constellation-docs/project-structure-overview",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "support",
-              "path": "/support",
+              "path": "/constellation-docs/support",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "task2",
-              "path": "/task2",
+              "path": "/constellation-docs/task2",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "task3",
-              "path": "/task3",
+              "path": "/constellation-docs/task3",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "tasks",
-              "path": "/tasks",
+              "path": "/constellation-docs/tasks",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -90,7 +90,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/",
+                "path": "/constellation-docs/",
                 "label": "getting-started"
               }
             }

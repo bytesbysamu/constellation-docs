@@ -3,139 +3,104 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/__docusaurus/debug',
-    component: ComponentCreator('/__docusaurus/debug', '5ff'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/config',
-    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/content',
-    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/globalData',
-    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/metadata',
-    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/registry',
-    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
-    exact: true
-  },
-  {
-    path: '/__docusaurus/debug/routes',
-    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
-    exact: true
-  },
-  {
-    path: '/',
-    component: ComponentCreator('/', '3b5'),
+    path: '/constellation-docs/',
+    component: ComponentCreator('/constellation-docs/', 'b6a'),
     routes: [
       {
-        path: '/',
-        component: ComponentCreator('/', 'de4'),
+        path: '/constellation-docs/',
+        component: ComponentCreator('/constellation-docs/', '645'),
         routes: [
           {
-            path: '/',
-            component: ComponentCreator('/', '852'),
+            path: '/constellation-docs/',
+            component: ComponentCreator('/constellation-docs/', '298'),
             routes: [
               {
-                path: '/auth',
-                component: ComponentCreator('/auth', 'd3f'),
+                path: '/constellation-docs/auth',
+                component: ComponentCreator('/constellation-docs/auth', 'b53'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/cicd',
-                component: ComponentCreator('/cicd', '405'),
+                path: '/constellation-docs/cicd',
+                component: ComponentCreator('/constellation-docs/cicd', 'a94'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/colors-and-themes',
-                component: ComponentCreator('/colors-and-themes', '6fc'),
+                path: '/constellation-docs/colors-and-themes',
+                component: ComponentCreator('/constellation-docs/colors-and-themes', '157'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/deployment',
-                component: ComponentCreator('/deployment', 'a8a'),
+                path: '/constellation-docs/deployment',
+                component: ComponentCreator('/constellation-docs/deployment', '35d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/development-setup',
-                component: ComponentCreator('/development-setup', '8bb'),
+                path: '/constellation-docs/development-setup',
+                component: ComponentCreator('/constellation-docs/development-setup', '016'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/emails-and-email-providers',
-                component: ComponentCreator('/emails-and-email-providers', '40c'),
+                path: '/constellation-docs/emails-and-email-providers',
+                component: ComponentCreator('/constellation-docs/emails-and-email-providers', '680'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/frontend-architecture',
-                component: ComponentCreator('/frontend-architecture', 'd16'),
+                path: '/constellation-docs/frontend-architecture',
+                component: ComponentCreator('/constellation-docs/frontend-architecture', 'e3d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/frontend-development-guide',
-                component: ComponentCreator('/frontend-development-guide', 'bb9'),
+                path: '/constellation-docs/frontend-development-guide',
+                component: ComponentCreator('/constellation-docs/frontend-development-guide', 'e6d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/payments',
-                component: ComponentCreator('/payments', 'dab'),
+                path: '/constellation-docs/payments',
+                component: ComponentCreator('/constellation-docs/payments', '74b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/project-structure-overview',
-                component: ComponentCreator('/project-structure-overview', '2e0'),
+                path: '/constellation-docs/project-structure-overview',
+                component: ComponentCreator('/constellation-docs/project-structure-overview', 'b13'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/support',
-                component: ComponentCreator('/support', 'd68'),
+                path: '/constellation-docs/support',
+                component: ComponentCreator('/constellation-docs/support', '4d6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/task2',
-                component: ComponentCreator('/task2', 'd44'),
+                path: '/constellation-docs/task2',
+                component: ComponentCreator('/constellation-docs/task2', '630'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/task3',
-                component: ComponentCreator('/task3', '6ae'),
+                path: '/constellation-docs/task3',
+                component: ComponentCreator('/constellation-docs/task3', '642'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/tasks',
-                component: ComponentCreator('/tasks', 'be8'),
+                path: '/constellation-docs/tasks',
+                component: ComponentCreator('/constellation-docs/tasks', '978'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/',
-                component: ComponentCreator('/', '654'),
+                path: '/constellation-docs/',
+                component: ComponentCreator('/constellation-docs/', '810'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

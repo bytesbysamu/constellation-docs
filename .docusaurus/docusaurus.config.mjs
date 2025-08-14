@@ -8,9 +8,9 @@ export default {
   "tagline": "Constellation SaaS Platform Documentation",
   "favicon": "img/constellation-logo-48.png",
   "url": "https://constellation.dev",
-  "baseUrl": "/",
-  "organizationName": "constellation",
-  "projectName": "docs",
+  "baseUrl": "/constellation-docs/",
+  "organizationName": "bytesbysamu",
+  "projectName": "constellation-docs",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {

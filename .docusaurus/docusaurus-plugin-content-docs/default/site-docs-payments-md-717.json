@@ -5,7 +5,7 @@
   "source": "@site/docs/payments.md",
   "sourceDirName": ".",
   "slug": "/payments",
-  "permalink": "/payments",
+  "permalink": "/constellation-docs/payments",
   "draft": false,
   "unlisted": false,
   "tags": [],
@@ -17,10 +17,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "🔐 Authentication & Security",
-    "permalink": "/auth"
+    "permalink": "/constellation-docs/auth"
   },
   "next": {
     "title": "📧 Email System & Providers",
-    "permalink": "/emails-and-email-providers"
+    "permalink": "/constellation-docs/emails-and-email-providers"
   }
 }
