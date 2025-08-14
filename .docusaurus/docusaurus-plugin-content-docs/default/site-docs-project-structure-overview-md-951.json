@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🚀 Quick Start Guide",
+    "title": "🚀 Quick Start",
     "permalink": "/constellation-docs/"
   },
   "next": {
-    "title": "🛠️ Development Setup Guide",
+    "title": "⚙️ Development Setup",
     "permalink": "/constellation-docs/development-setup"
   }
 }

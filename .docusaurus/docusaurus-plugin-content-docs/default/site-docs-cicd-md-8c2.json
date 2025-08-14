@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🛠️ Development Setup Guide",
-    "permalink": "/constellation-docs/development-setup"
+    "title": "🌐 Deployment",
+    "permalink": "/constellation-docs/deployment"
   },
   "next": {
-    "title": "🔐 Authentication & Security",
-    "permalink": "/constellation-docs/auth"
+    "title": "🛠️ Support",
+    "permalink": "/constellation-docs/support"
   }
 }

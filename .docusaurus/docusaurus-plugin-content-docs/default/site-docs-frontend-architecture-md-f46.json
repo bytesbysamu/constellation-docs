@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🚀 Deployment & Production",
-    "permalink": "/constellation-docs/deployment"
+    "title": "⚙️ Development Setup",
+    "permalink": "/constellation-docs/development-setup"
   },
   "next": {
-    "title": "📱 Frontend Development Guide",
+    "title": "💻 Frontend Development Guide",
     "permalink": "/constellation-docs/frontend-development-guide"
   }
 }

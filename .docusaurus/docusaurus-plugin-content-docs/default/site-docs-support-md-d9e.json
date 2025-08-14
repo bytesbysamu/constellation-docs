@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "📱 Frontend Development Guide",
-    "permalink": "/constellation-docs/frontend-development-guide"
+    "title": "🔄 CI/CD",
+    "permalink": "/constellation-docs/cicd"
   },
   "next": {
     "title": "📋 Project Status & Integration",

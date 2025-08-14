@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🔐 Authentication & Security",
+    "title": "🔒 Authentication",
     "permalink": "/constellation-docs/auth"
   },
   "next": {
-    "title": "📧 Email System & Providers",
+    "title": "✉️ Emails & Email Providers",
     "permalink": "/constellation-docs/emails-and-email-providers"
   }
 }

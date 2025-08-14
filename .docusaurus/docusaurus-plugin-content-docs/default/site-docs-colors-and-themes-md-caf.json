@@ -16,11 +16,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "📧 Email System & Providers",
+    "title": "✉️ Emails & Email Providers",
     "permalink": "/constellation-docs/emails-and-email-providers"
   },
   "next": {
-    "title": "🚀 Deployment & Production",
+    "title": "🌐 Deployment",
     "permalink": "/constellation-docs/deployment"
   }
 }
